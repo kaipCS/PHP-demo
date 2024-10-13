@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Javascript test</title>
+    <title> PHP test</title>
 </head>
 <body>
  
